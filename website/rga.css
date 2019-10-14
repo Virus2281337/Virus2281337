@@ -1,0 +1,36 @@
+	* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    p {
+			font-size: 50px;
+			color: #0000ff ;
+			font-family: 'Indie Flower', cursive;
+			text-align: center;
+			padding: 10px 0;
+		}
+
+img {
+	width: 500px;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+body {
+	background-color: yellow;
+}
+div {
+	margin: auto;
+	background-color: red;
+}
+a {
+	font-size: 50px;
+			color: #0000ff ;
+			font-family: 'Indie Flower', cursive;
+			text-align: center;
+			padding: 10px 0;
+			text-decoration: none;
+}
+

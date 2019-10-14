@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+	font-size: 40px;
+	color: grey;
+}
+
+h1 {
+ 
+	color: #02576c;
+	font-family: 'Bad Script', cursive;
+	font-family: 'Caveat', cursive;
+
+	}
+	
+a{
+  font-size: 25px;
+  color: #4600ca;
+
+
+}
+
+div {
+		width: 40%;
+		margin: auto;
+		padding: 50px;
+	}
+
+img {
+	max-width: 500px;
+	width: 70%;
+	height: auto;
+
+	display: block;
+	margin: auto;
+	padding: 7px;
+
+   }
+
+
+
+ body {
+ 	  background-image: url(8OpY.gif);
+ 	  background-size: cover;
+ }
